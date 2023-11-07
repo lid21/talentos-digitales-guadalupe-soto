@@ -1,0 +1,9 @@
+	Usuario ADMIN
+	admin@mail.com
+	 12345
+
+        Clientes
+	1.  cliente@mail.com
+	 12345
+
+	
